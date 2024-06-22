@@ -19,7 +19,7 @@ This project performs object recognition using image processing techniques. The 
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd object-recognition-through-image-processing
+    cd object-recognition-through-image-processing/src/
     ```
 3. **Install the required libraries:**
     ```bash
